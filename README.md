@@ -5,7 +5,7 @@ A data analytics project exploring the relationship between healthcare spending 
 
 ## 📁 Project Structure
 
-
+```bash
 health_dashboard_project/
 │
 ├── data/
@@ -143,5 +143,13 @@ streamlit run Scripts/dashboard.py
 
   * `explore_and_analyse_data.ipynb`
   * `02_Statistical_analysis.ipynb`
+
+
+## 📌 Key Insights
+
+* Countries with higher healthcare spending generally demonstrated higher life expectancy.
+* Significant gender-based differences in life expectancy were observed across EU countries.
+* Temporal trends suggested changing healthcare outcome patterns over the 2012–2022 period.
+* Regression analysis indicated that healthcare spending remained a significant predictor of life expectancy after adjusting for demographic variables.
 
 
