@@ -1,6 +1,3 @@
-Here is the **final enhanced version of your README**, tailored for GitHub, incorporating the statistical analysis results, categorical handling explanation, and a more polished structure suitable for a public-facing data project:
-
----
 
 # 🩺 EU Healthcare Spending & Health Outcomes Dashboard
 
@@ -8,7 +5,7 @@ A data analytics project exploring the relationship between healthcare spending 
 
 ## 📁 Project Structure
 
-```
+
 health_dashboard_project/
 │
 ├── data/
