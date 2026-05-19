@@ -41,7 +41,7 @@ health_dashboard_project/
 
 ---
 
-## ## 🔄 Project Workflow
+## 🔄 Project Workflow
 
 ```text
 Data Collection
