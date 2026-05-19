@@ -41,6 +41,22 @@ health_dashboard_project/
 
 ---
 
+## ## 🔄 Project Workflow
+
+```text
+Data Collection
+        ↓
+Data Cleaning & Preprocessing
+        ↓
+Exploratory Data Analysis (EDA)
+        ↓
+Statistical Modeling & Regression Analysis
+        ↓
+Interactive Dashboard Development
+        ↓
+Visualization & Insight Generation
+```
+
 ## 📊 Dashboard Features
 
 🚀 [Live Streamlit App](https://eu-healthcare-spending-analysis-dashboard.streamlit.app)
